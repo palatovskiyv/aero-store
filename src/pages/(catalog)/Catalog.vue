@@ -1,0 +1,4 @@
+<template>
+  <Catalog />
+  <Location />
+</template>

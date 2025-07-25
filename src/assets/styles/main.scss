@@ -1,0 +1,41 @@
+@import './fonts.scss';
+
+:root {
+  --primary-color: #000;
+  --secondary-color: #fff;
+  --tertiary-color: #F2F2F2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: var(--tertiary-color);
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Unbounded', sans-serif;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+
+
