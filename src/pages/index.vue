@@ -1,4 +1,13 @@
 <script setup lang="ts">
+import { useHead } from '#imports'
+
+useHead({
+  title: 'Квадрокоптеры DJI — В наличии FPV, Mavic, Avata, Mini, Agras',
+  meta: [
+    { name: 'description', content: 'Купить квадрокоптер DJI: Mavic, Mini, Avata, FPV, Agras, Matrice, Flip, Neo. Камеры, аксессуары, системы РЭБ и детекторы дронов — в наличии на Aerostore.tech' },
+  ]
+})
+
 const { $directus, $readItem } = useNuxtApp()
 
 const { data: config } = await useAsyncData('config', () => {

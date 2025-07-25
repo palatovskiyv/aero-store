@@ -204,10 +204,6 @@ function stopEvent(event: Event) {
     event.stopPropagation()
   }
 }
-
-useSeoMeta({
-  title: 'Каталог',
-})
 </script>
 
 <template>
