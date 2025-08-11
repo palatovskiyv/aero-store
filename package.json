@@ -7,7 +7,9 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "sitemap": "node scripts/generate-sitemap.js",
+    "build:prod": "npm run sitemap && npm run build"
   },
   "dependencies": {
     "@directus/sdk": "^19.1.0",
