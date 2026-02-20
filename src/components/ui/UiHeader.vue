@@ -369,7 +369,7 @@ function formatPrice(price) {
             <div class="contact-label">
               Мы находимся
               <div class="contact-address">
-              г. Москва, Багратионовский проезд 7к20в
+              г. Петропавловск-Камчатский, ул. Лукашевского, 5, 1 этаж, ТЦ Планета
             </div>
             </div>
           </div>

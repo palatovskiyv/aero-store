@@ -9,7 +9,7 @@ import { usePhoneMask } from '@/composables/usePhoneMask'
 const items = [
   {
     title: 'Адрес',
-    text: 'г. Москва, Багратионовский проезд 7к20в',
+    text: 'г. Петропавловск-Камчатский, ул. Лукашевского, 5, 1 этаж, ТЦ Планета',
   },
   {
     title: 'Время работы',

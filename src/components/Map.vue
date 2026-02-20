@@ -13,8 +13,7 @@ import { ref, onMounted } from 'vue';
 const mapError = ref(false);
 
 // Координаты точек на карте
-const mainCoordinates = [55.743527, 37.505499];
-const additionalPoint = [55.76363, 37.64];
+const mainCoordinates = [53.058975, 158.634161];
 
 // Инициализация карты
 const initMap = () => {

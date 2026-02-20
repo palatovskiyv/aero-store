@@ -34,7 +34,7 @@ export default {
               Политика конфиденциальности
             </NuxtLink>
             <h2 class="footer__info footer__info-address">
-              г. Москва, Багратионовский проезд 7к20в
+              г. Петропавловск-Камчатский, ул. Лукашевского, 5, 1 этаж, ТЦ Планета
             </h2>
           </div>
           <div class="footer__row-bottom">
